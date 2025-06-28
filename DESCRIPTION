@@ -1,0 +1,21 @@
+Package: MATH4753KORBProject1
+Type: Package
+Title: Project 1: Overbooking Problem
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Kelsey", "Korb",
+      email = "kelsey.e.korb-1@ou.edu",
+      role = c("aut", "cre")
+    )
+  )
+Description: Functions necessary to calculate the optimal number of tickets to be sold.
+    Paired with a Shiny app to allow for a user interface.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Imports:
+  stats,
+  graphics,
+  rootSolve
