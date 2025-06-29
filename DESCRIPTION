@@ -18,7 +18,8 @@ RoxygenNote: 7.3.2
 Imports:
   stats,
   graphics,
-  rootSolve
+  rootSolve,
+  shiny
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
