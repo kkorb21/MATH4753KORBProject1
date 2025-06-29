@@ -3,7 +3,6 @@
 export(optimal_n)
 export(optimal_n_continuous)
 export(optimal_n_discrete)
-export(run_overbooking)
 importFrom(graphics,abline)
 importFrom(graphics,curve)
 importFrom(graphics,plot)
